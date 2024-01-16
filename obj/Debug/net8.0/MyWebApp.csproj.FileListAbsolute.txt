@@ -154,3 +154,4 @@ C:/Users/ddezoysa/Documents/MyWebApp/bin/Debug/net8.0/YamlDotNet.dll
 /Users/jvanathu/Desktop/dev/cm-share/MyWebApp/obj/Debug/net8.0/MyWebApp.pdb
 /Users/jvanathu/Desktop/dev/cm-share/MyWebApp/obj/Debug/net8.0/MyWebApp.genruntimeconfig.cache
 /Users/jvanathu/Desktop/dev/cm-share/MyWebApp/obj/Debug/net8.0/ref/MyWebApp.dll
+/Users/jvanathu/Desktop/dev/cm-share/MyWebApp/obj/Debug/net8.0/MyWebApp.sourcelink.json
